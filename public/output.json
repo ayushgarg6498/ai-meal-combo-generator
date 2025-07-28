@@ -1,0 +1,224 @@
+[
+  {
+    "day": "Monday",
+    "taste_profile": "sweet",
+    "combos": [
+      {
+        "combo_id": 1,
+        "main": "Vegetable Pulao",
+        "side": "Paneer Tikka",
+        "drink": "Coconut Water",
+        "total_calories": 760,
+        "popularity_score": 2.15,
+        "reasoning": "Sweet profile fits Monday, calorie goal met"
+      },
+      {
+        "combo_id": 2,
+        "main": "Rajma Chawal",
+        "side": "Papad",
+        "drink": "Iced Tea",
+        "total_calories": 720,
+        "popularity_score": 2.23,
+        "reasoning": "Sweet profile fits Monday, calorie goal met"
+      },
+      {
+        "combo_id": 3,
+        "main": "Grilled Sandwich",
+        "side": "Curd Rice",
+        "drink": "Cold Coffee",
+        "total_calories": 800,
+        "popularity_score": 2.05,
+        "reasoning": "Sweet profile fits Monday, calorie goal met"
+      }
+    ]
+  },
+  {
+    "day": "Tuesday",
+    "taste_profile": "spicy",
+    "combos": [
+      {
+        "combo_id": 1,
+        "main": "Rajma Chawal",
+        "side": "Mixed Veg Salad",
+        "drink": "Masala Chaas",
+        "total_calories": 750,
+        "popularity_score": 2.35,
+        "reasoning": "Spicy profile fits Tuesday, calorie goal met"
+      },
+      {
+        "combo_id": 2,
+        "main": "Paneer Butter Masala",
+        "side": "Papad",
+        "drink": "Sweet Lassi",
+        "total_calories": 770,
+        "popularity_score": 2.45,
+        "reasoning": "Spicy profile fits Tuesday, calorie goal met"
+      },
+      {
+        "combo_id": 3,
+        "main": "Grilled Sandwich",
+        "side": "Paneer Tikka",
+        "drink": "Iced Tea",
+        "total_calories": 790,
+        "popularity_score": 2.23,
+        "reasoning": "Spicy profile fits Tuesday, calorie goal met"
+      }
+    ]
+  },
+  {
+    "day": "Wednesday",
+    "taste_profile": "savory",
+    "combos": [
+      {
+        "combo_id": 1,
+        "main": "Grilled Sandwich",
+        "side": "Mixed Veg Salad",
+        "drink": "Iced Tea",
+        "total_calories": 640,
+        "popularity_score": 2.13,
+        "reasoning": "Savory profile fits Wednesday, calorie goal met"
+      },
+      {
+        "combo_id": 2,
+        "main": "Paneer Butter Masala",
+        "side": "Curd Rice",
+        "drink": "Masala Chaas",
+        "total_calories": 800,
+        "popularity_score": 2.4,
+        "reasoning": "Savory profile fits Wednesday, calorie goal met"
+      },
+      {
+        "combo_id": 3,
+        "main": "Vegetable Pulao",
+        "side": "Paneer Tikka",
+        "drink": "Lemon Soda",
+        "total_calories": 790,
+        "popularity_score": 2.25,
+        "reasoning": "Savory profile fits Wednesday, calorie goal met"
+      }
+    ]
+  },
+  {
+    "day": "Thursday",
+    "taste_profile": "sweet",
+    "combos": [
+      {
+        "combo_id": 1,
+        "main": "Paneer Butter Masala",
+        "side": "Curd Rice",
+        "drink": "Coconut Water",
+        "total_calories": 760,
+        "popularity_score": 2.2,
+        "reasoning": "Sweet profile fits Thursday, calorie goal met"
+      },
+      {
+        "combo_id": 2,
+        "main": "Rajma Chawal",
+        "side": "Mixed Veg Salad",
+        "drink": "Iced Tea",
+        "total_calories": 770,
+        "popularity_score": 2.33,
+        "reasoning": "Sweet profile fits Thursday, calorie goal met"
+      },
+      {
+        "combo_id": 3,
+        "main": "Grilled Sandwich",
+        "side": "Garlic Naan",
+        "drink": "Sweet Lassi",
+        "total_calories": 790,
+        "popularity_score": 2.4,
+        "reasoning": "Sweet profile fits Thursday, calorie goal met"
+      }
+    ]
+  },
+  {
+    "day": "Friday",
+    "taste_profile": "spicy",
+    "combos": [
+      {
+        "combo_id": 1,
+        "main": "Paneer Butter Masala",
+        "side": "Papad",
+        "drink": "Iced Tea",
+        "total_calories": 670,
+        "popularity_score": 2.33,
+        "reasoning": "Spicy profile fits Friday, calorie goal met"
+      },
+      {
+        "combo_id": 2,
+        "main": "Vegetable Pulao",
+        "side": "Paneer Tikka",
+        "drink": "Coconut Water",
+        "total_calories": 760,
+        "popularity_score": 2.15,
+        "reasoning": "Spicy profile fits Friday, calorie goal met"
+      }
+    ]
+  },
+  {
+    "day": "Saturday",
+    "taste_profile": "savory",
+    "combos": [
+      {
+        "combo_id": 1,
+        "main": "Paneer Butter Masala",
+        "side": "Papad",
+        "drink": "Masala Chaas",
+        "total_calories": 650,
+        "popularity_score": 2.35,
+        "reasoning": "Savory profile fits Saturday, calorie goal met"
+      },
+      {
+        "combo_id": 2,
+        "main": "Grilled Sandwich",
+        "side": "Paneer Tikka",
+        "drink": "Iced Tea",
+        "total_calories": 790,
+        "popularity_score": 2.23,
+        "reasoning": "Savory profile fits Saturday, calorie goal met"
+      },
+      {
+        "combo_id": 3,
+        "main": "Rajma Chawal",
+        "side": "Mixed Veg Salad",
+        "drink": "Coconut Water",
+        "total_calories": 710,
+        "popularity_score": 2.15,
+        "reasoning": "Savory profile fits Saturday, calorie goal met"
+      }
+    ]
+  },
+  {
+    "day": "Sunday",
+    "taste_profile": "sweet",
+    "combos": [
+      {
+        "combo_id": 1,
+        "main": "Rajma Chawal",
+        "side": "Mixed Veg Salad",
+        "drink": "Lemon Soda",
+        "total_calories": 740,
+        "popularity_score": 2.25,
+        "reasoning": "Sweet profile fits Sunday, calorie goal met"
+      },
+      {
+        "combo_id": 2,
+        "main": "Vegetable Pulao",
+        "side": "Curd Rice",
+        "drink": "Coconut Water",
+        "total_calories": 710,
+        "popularity_score": 2,
+        "reasoning": "Sweet profile fits Sunday, calorie goal met"
+      },
+      {
+        "combo_id": 3,
+        "main": "Masala Dosa",
+        "side": "Papad",
+        "drink": "Cold Coffee",
+        "total_calories": 760,
+        "popularity_score": 2.28,
+        "reasoning": "Sweet profile fits Sunday, calorie goal met"
+      }
+    ]
+  }
+]

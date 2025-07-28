@@ -1,0 +1,84 @@
+.App {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding: 2rem;
+  max-width: 1000px;
+  margin: auto;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 2rem;
+  color: #333;
+}
+
+.day-section {
+  margin-bottom: 3rem;
+  border-top: 2px solid #ddd;
+  padding-top: 2rem;
+}
+
+.combo-card {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 1rem;
+  margin-bottom: 1.2rem;
+  background-color: #f9f9f9;
+  box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.05);
+}
+
+.popularity-badge {
+  display: inline-block;
+  margin-top: 0.5rem;
+  padding: 0.3rem 0.7rem;
+  border-radius: 20px;
+  font-size: 0.85rem;
+  font-weight: bold;
+  color: white;
+}
+
+.popularity-badge.high {
+  background-color: #4caf50;
+}
+
+.popularity-badge.balanced {
+  background-color: #2196f3;
+}
+
+.popularity-badge.low {
+  background-color: #f44336;
+}
+
+.view-toggle {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+  margin-bottom: 1.5rem;
+}
+
+.view-toggle button {
+  padding: 0.6rem 1.2rem;
+  border-radius: 6px;
+  font-weight: bold;
+  border: 1px solid #ccc;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+  background-color: #fff;
+}
+
+.view-toggle button:hover {
+  background-color: #eee;
+}
+
+.view-toggle button.active {
+  background-color: #4caf50;
+  color: white;
+  border: none;
+}
+
+.view-toggle select {
+  padding: 0.6rem 1rem;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  font-weight: bold;
+}
