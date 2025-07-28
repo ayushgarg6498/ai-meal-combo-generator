@@ -1,0 +1,233 @@
+[
+  {
+    "day": "Monday",
+    "taste_profile": "Sweet",
+    "combos": [
+      {
+        "combo_id": 17,
+        "main": "Vegetable Pulao",
+        "side": "Garlic Naan",
+        "drink": "Lemon Soda",
+        "total_calories": 690,
+        "popularity_score": 2.3,
+        "reasoning": "Includes items with 'savory' taste, calorie-controlled"
+      },
+      {
+        "combo_id": 54,
+        "main": "Paneer Butter Masala",
+        "side": "Mixed Veg Salad",
+        "drink": "Iced Tea",
+        "total_calories": 720,
+        "popularity_score": 2.43,
+        "reasoning": "Includes items with 'spicy' taste, calorie-controlled"
+      },
+      {
+        "combo_id": 76,
+        "main": "Grilled Sandwich",
+        "side": "French Fries",
+        "drink": "Coconut Water",
+        "total_calories": 780,
+        "popularity_score": 2,
+        "reasoning": "Includes items with 'savory' taste, calorie-controlled"
+      }
+    ]
+  },
+  {
+    "day": "Tuesday",
+    "taste_profile": "Spicy",
+    "combos": [
+      {
+        "combo_id": 11,
+        "main": "Rajma Chawal",
+        "side": "Mixed Veg Salad",
+        "drink": "Iced Tea",
+        "total_calories": 770,
+        "popularity_score": 2.33,
+        "reasoning": "Includes items with 'savory' taste, calorie-controlled"
+      },
+      {
+        "combo_id": 20,
+        "main": "Vegetable Pulao",
+        "side": "Paneer Tikka",
+        "drink": "Lemon Soda",
+        "total_calories": 790,
+        "popularity_score": 2.25,
+        "reasoning": "Includes items with 'savory' taste, calorie-controlled"
+      },
+      {
+        "combo_id": 62,
+        "main": "Grilled Sandwich",
+        "side": "Curd Rice",
+        "drink": "Cold Coffee",
+        "total_calories": 800,
+        "popularity_score": 2.05,
+        "reasoning": "Includes items with 'savory' taste, calorie-controlled"
+      }
+    ]
+  },
+  {
+    "day": "Wednesday",
+    "taste_profile": "Savoury",
+    "combos": [
+      {
+        "combo_id": 1,
+        "main": "Rajma Chawal",
+        "side": "Garlic Naan",
+        "drink": "Masala Chaas",
+        "total_calories": 800,
+        "popularity_score": 2.5,
+        "reasoning": "Includes items with 'savory' taste, calorie-controlled"
+      },
+      {
+        "combo_id": 22,
+        "main": "Grilled Sandwich",
+        "side": "Paneer Tikka",
+        "drink": "Coconut Water",
+        "total_calories": 730,
+        "popularity_score": 2.05,
+        "reasoning": "Includes items with 'savory' taste, calorie-controlled"
+      },
+      {
+        "combo_id": 43,
+        "main": "Vegetable Pulao",
+        "side": "Mixed Veg Salad",
+        "drink": "Lemon Soda",
+        "total_calories": 640,
+        "popularity_score": 2.15,
+        "reasoning": "Includes items with 'savory' taste, calorie-controlled"
+      }
+    ]
+  },
+  {
+    "day": "Thursday",
+    "taste_profile": "Sweet",
+    "combos": [
+      {
+        "combo_id": 17,
+        "main": "Paneer Butter Masala",
+        "side": "Curd Rice",
+        "drink": "Masala Chaas",
+        "total_calories": 800,
+        "popularity_score": 2.4,
+        "reasoning": "Includes items with 'spicy' taste, calorie-controlled"
+      },
+      {
+        "combo_id": 54,
+        "main": "Grilled Sandwich",
+        "side": "Garlic Naan",
+        "drink": "Lemon Soda",
+        "total_calories": 660,
+        "popularity_score": 2.2,
+        "reasoning": "Includes items with 'savory' taste, calorie-controlled"
+      },
+      {
+        "combo_id": 76,
+        "main": "Vegetable Pulao",
+        "side": "Paneer Tikka",
+        "drink": "Coconut Water",
+        "total_calories": 760,
+        "popularity_score": 2.15,
+        "reasoning": "Includes items with 'savory' taste, calorie-controlled"
+      }
+    ]
+  },
+  {
+    "day": "Friday",
+    "taste_profile": "Spicy",
+    "combos": [
+      {
+        "combo_id": 1,
+        "main": "Vegetable Pulao",
+        "side": "Garlic Naan",
+        "drink": "Masala Chaas",
+        "total_calories": 700,
+        "popularity_score": 2.4,
+        "reasoning": "Includes items with 'savory' taste, calorie-controlled"
+      },
+      {
+        "combo_id": 22,
+        "main": "Grilled Sandwich",
+        "side": "Mixed Veg Salad",
+        "drink": "Sweet Lassi",
+        "total_calories": 740,
+        "popularity_score": 2.25,
+        "reasoning": "Includes items with 'savory' taste, calorie-controlled"
+      },
+      {
+        "combo_id": 48,
+        "main": "Paneer Butter Masala",
+        "side": "Curd Rice",
+        "drink": "Lemon Soda",
+        "total_calories": 790,
+        "popularity_score": 2.3,
+        "reasoning": "Includes items with 'spicy' taste, calorie-controlled"
+      }
+    ]
+  },
+  {
+    "day": "Saturday",
+    "taste_profile": "Savoury",
+    "combos": [
+      {
+        "combo_id": 1,
+        "main": "Paneer Butter Masala",
+        "side": "Garlic Naan",
+        "drink": "Coconut Water",
+        "total_calories": 710,
+        "popularity_score": 2.4,
+        "reasoning": "Includes items with 'spicy' taste, calorie-controlled"
+      },
+      {
+        "combo_id": 22,
+        "main": "Vegetable Pulao",
+        "side": "Mixed Veg Salad",
+        "drink": "Iced Tea",
+        "total_calories": 670,
+        "popularity_score": 2.23,
+        "reasoning": "Includes items with 'savory' taste, calorie-controlled"
+      },
+      {
+        "combo_id": 64,
+        "main": "Grilled Sandwich",
+        "side": "Curd Rice",
+        "drink": "Masala Chaas",
+        "total_calories": 720,
+        "popularity_score": 2.1,
+        "reasoning": "Includes items with 'savory' taste, calorie-controlled"
+      }
+    ]
+  },
+  {
+    "day": "Sunday",
+    "taste_profile": "Sweet",
+    "combos": [
+      {
+        "combo_id": 22,
+        "main": "Rajma Chawal",
+        "side": "Mixed Veg Salad",
+        "drink": "Masala Chaas",
+        "total_calories": 750,
+        "popularity_score": 2.35,
+        "reasoning": "Includes items with 'savory' taste, calorie-controlled"
+      },
+      {
+        "combo_id": 43,
+        "main": "Vegetable Pulao",
+        "side": "Curd Rice",
+        "drink": "Iced Tea",
+        "total_calories": 770,
+        "popularity_score": 2.18,
+        "reasoning": "Includes items with 'savory' taste, calorie-controlled"
+      },
+      {
+        "combo_id": 61,
+        "main": "Masala Dosa",
+        "side": "Papad",
+        "drink": "Sweet Lassi",
+        "total_calories": 800,
+        "popularity_score": 2.43,
+        "reasoning": "Includes items with 'savory' taste, calorie-controlled"
+      }
+    ]
+  }
+]
